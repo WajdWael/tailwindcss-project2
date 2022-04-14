@@ -5,7 +5,9 @@ Take a look at my website:
 
 > #### (Tailwindcss) provide you whit a css classes to start using it into your html page
 
-    I really like the (md:, lg: etc..) classes because they make my life easier when it comes to dealing with responsive design!
+    I really liked the 
+    (md:, lg: etc..) classes,
+    because they make my life easier when it comes to dealing with responsive design!
 
 **About Tailwindcss**:
 
