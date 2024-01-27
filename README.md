@@ -1,16 +1,28 @@
-## Hello everyone this is anthoer **Tailwindcss** project!!
+# Manage company website,  A **Tailwindcss** Project
 
-Take a look at my website:
-[https://wajdwael.github.io/tailwindcss-project2/](https://wajdwael.github.io/tailwindcss-project2/)
+![image](https://github.com/WajdWael/tailwindcss-project2/assets/81550668/6f8ab8bd-9316-4c15-b268-be2456db08a3)
+[Demo - Preview Website](https://wajdwael.github.io/tailwindcss-project2/)
 
-#### (Tailwindcss) provide you with css classes that can be used into your web.
+---
 
-**About Tailwindcss**:
+# These Projects, focus on learning TailwindCSS:
+- [Portfolio](https://github.com/WajdWael/tailwindcss-project3/tree/master)
+- [Book Mark](https://github.com/WajdWael/tailwindcss-project/)
 
-- Basically, Tailwindcss is a utility-first CSS framework for rapidly building custom user interfaces low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override. [Read More ...](https://www.geeksforgeeks.org/introduction-to-tailwind-css/)
+---
 
-## Tools:
 
+# Tailwindcss:
+
+## (Tailwindcss) provides you with CSS classes that can be used on your web.
+Tailwindcss is a **utility-first CSS framework** for rapidly building custom user interfaces low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override. 
+
+
+[Read More](https://www.geeksforgeeks.org/introduction-to-tailwind-css/)
+
+---
+
+# Tools:
 - HTML5
 - CSS3
 - JS
